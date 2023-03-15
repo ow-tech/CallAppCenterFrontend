@@ -1,0 +1,16 @@
+
+.profile-page {
+  
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    background: #fff;
+    border-radius: 20px;
+    text-align: center;
+    margin: 20px;
+  }
+
+.profile-data-element {
+    font-weight: bold;
+}

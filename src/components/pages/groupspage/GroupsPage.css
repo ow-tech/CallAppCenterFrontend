@@ -1,0 +1,11 @@
+.group-page{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    height: 40vh;
+    margin: 50px;
+    padding: 0 150px 0 150px;
+
+
+}
